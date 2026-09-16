@@ -11,7 +11,7 @@ $aluno1 = new Aluno(" João", "joao@aluno.com", "2025A001");
 $aluno2 = new Aluno(" Maria", "maria@aluno.com", "2025A002");
 
 //exibindo informações dos professores
-echo "<h2>professores</h2>";
+echo "<h2>Professores</h2>";
 echo $professor1->exibirInfo() . "<br>";
 echo $professor1->darAula() . "<br><br>";
 
